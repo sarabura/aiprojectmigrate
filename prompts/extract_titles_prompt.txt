@@ -1,0 +1,7 @@
+I am capturing the conversation titles from a ChatGPT project so I can migrate it.
+
+I have attached one or more screenshots of the ChatGPT project conversation list. Each screenshot shows a list of conversation titles in the left sidebar or the project view.
+
+Please extract every visible conversation title and return them as a plain text list, one title per line, with no numbering, no bullets, no extra punctuation, and no commentary. If a title appears in more than one screenshot, include it only once. Preserve the exact capitalization and wording as shown.
+
+Return only the list and nothing else. Save the result as a plain text file named titles.txt and provide it for download.

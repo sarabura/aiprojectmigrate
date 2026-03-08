@@ -1,0 +1,27 @@
+I have uploaded a markdown file containing the exported conversation history from a ChatGPT project. Please read it carefully and produce a structured project summary document with the following sections:
+
+1. Project Overview
+   A concise description of what this project is about, its purpose, and its current state.
+
+2. Key Facts and Numbers
+   Any specific figures, dates, quantities, or measurements that have been established and are likely to be referenced again.
+
+3. Decisions Made
+   A list of decisions that were reached during the project, including any rationale where relevant.
+
+4. Work Completed
+   A summary of outputs, documents, code, plans, or other deliverables that were produced.
+
+5. Open Items and Unresolved Questions
+   Anything that was identified but not yet resolved, or that requires follow-up.
+
+6. People and Organizations Mentioned
+   Names, roles, and any relevant context for individuals or organizations that appear in the conversations.
+
+7. Important Context for Future Conversations
+   Anything that a future AI assistant would need to know to continue this work intelligently — constraints, preferences, background knowledge, tone, or working style.
+
+8. Suggested Project Instructions
+   A concise block of text (2-5 sentences) suitable for pasting directly into Claude's project instructions field. It should describe what the project is, its current state, any key constraints or context, and note that a detailed summary document is available in the knowledge base.
+
+When the summary is complete, save it as a markdown file named project-summary.md and provide it for download.

@@ -41,7 +41,7 @@ Do this before cancelling your ChatGPT subscription. Once you lose access, this 
 
 Navigate to each project in ChatGPT and take screenshots of the conversation list. Paste the screenshots into a Claude conversation along with the contents of `prompts/extract_titles_prompt.txt`. Claude will return a plain text list of titles and provide it as a downloadable `titles.txt` file.
 
-Save a separate titles file for each project you want to migrate.
+Save a separate titles file for each project you want to migrate. For the second and subsequent project you can use the prompt *Same instructions as before* to save yourself some time.
 
 ### Step 2 — Merge the export files
 

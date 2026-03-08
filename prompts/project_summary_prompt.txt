@@ -24,4 +24,4 @@ I have uploaded a markdown file containing the exported conversation history fro
 8. Suggested Project Instructions
    A concise block of text (2-5 sentences) suitable for pasting directly into Claude's project instructions field. It should describe what the project is, its current state, any key constraints or context, and note that a detailed summary document is available in the knowledge base.
 
-When the summary is complete, save it as a markdown file named project-summary.md and provide it for download.
+When the summary is complete, save it as a markdown file named after the Claude project in the header of the conversations file and provide it for download.

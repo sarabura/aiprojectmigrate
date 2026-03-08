@@ -8,7 +8,7 @@ ChatGPT's data export does not include project membership. Your conversations ar
 
 This repository provides a workaround: capture the conversation titles from the ChatGPT interface directly, then use those titles to extract the matching conversations from the export.
 
-For a full explanation of the approach, see the accompanying article on Medium.
+For a full explanation of the approach, see the accompanying [article on Medium](https://medium.com/p/4f91e95866da).
 
 ---
 
